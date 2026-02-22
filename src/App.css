@@ -1,0 +1,6 @@
+.container{max-width:900px;margin:0 auto;padding:24px;font-family:Inter,system-ui,sans-serif}
+input,textarea{width:100%;margin:8px 0;padding:10px;border:1px solid #ddd;border-radius:8px}
+pre{background:#111;color:#0f0;padding:12px;border-radius:8px;white-space:pre-wrap}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.card{border:1px solid #ddd;border-radius:12px;padding:14px}
+button{background:#111;color:#fff;border:none;padding:10px 14px;border-radius:8px}
