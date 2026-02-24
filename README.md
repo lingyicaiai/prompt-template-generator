@@ -1,22 +1,22 @@
-# prompt-template-generator
+# Prompt Template Generator
 
-## 用途
-prompt-template-generator 小项目示例，可本地运行并构建。
+可交互 MVP：按场景（写作/客服/编程/营销）+ 目标 + 语气 + 约束，生成结构化 Prompt（含变量占位），支持复制。
 
-## 启动步骤
+## 功能
+- 四种场景模板切换
+- 结构化 Prompt 自动生成
+- 一键复制，移动端可用
+
+## 截图
+![screenshot-placeholder](./public/screenshot-placeholder.png)
+
+## 本地运行
 ```bash
 npm install
 npm run dev
-```
-
-## 构建
-```bash
 npm run build
 ```
 
-## 环境变量
-当前版本无需必填环境变量。如需扩展，可在 \.env.local 中配置。
-
-## 部署地址
-- Vercel: TODO
-- 自定义域名: TODO
+## 已部署地址
+- Vercel: 待本次发布后回填
+- 子域名: 保持原有 alias 不变
