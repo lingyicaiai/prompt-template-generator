@@ -18,5 +18,5 @@ npm run build
 ```
 
 ## 已部署地址
-- Vercel: 待本次发布后回填
-- 子域名: 保持原有 alias 不变
+- Vercel: https://prompt-template-generator.vercel.app
+- 子域名: 保持原有 alias（本次仅更新代码）
